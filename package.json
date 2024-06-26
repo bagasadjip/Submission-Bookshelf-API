@@ -1,0 +1,19 @@
+{
+  "name": "api-bookshelf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specific\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgsadj/Submission-Bookshelf-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgsadj/Submission-Bookshelf-API/issues"
+  },
+  "homepage": "https://github.com/bgsadj/Submission-Bookshelf-API#readme",
+  "description": ""
+}
